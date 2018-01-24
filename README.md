@@ -12,6 +12,7 @@ NodeJS tcp open port check
 const TCPPortCheck = require('tcp-port-check')
 
 let checker = new TCPPortCheck({
+    timeout: 3000,
     getBanner: 512
 })
 
