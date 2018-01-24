@@ -1,0 +1,16 @@
+{
+  "name": "tcp-port-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/0x0a0d/tcp-port-check.git"
+  },
+  "keywords": [],
+  "author": "0x0a0d",
+  "license": "ISC"
+}
